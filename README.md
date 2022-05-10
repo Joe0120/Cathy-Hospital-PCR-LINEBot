@@ -1,5 +1,5 @@
 # Cathy-Hospital-PCR-LINEBot
-Cathay General Hospital PCR result Notify LINEBot
+## Cathay General Hospital PCR result Notify LINEBot
 
 ### env
 #### You must fill the following variables in your .env file:
@@ -9,7 +9,7 @@ Cathay General Hospital PCR result Notify LINEBot
 - channelAccessToken
 - crawler_SERVERURL
 
-#### requirements package
+### requirements package
 ```
 npm i
 ```
